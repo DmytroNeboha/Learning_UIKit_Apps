@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39785A75-4322-4F2B-8D20-EBFB6BA8929B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36A64FD2-E276-4A0A-9523-BE001731B454"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x413;&#x43b;&#x430;&#x432;&#x430; 7. &#x422;&#x430;&#x431;&#x43b;&#x438;&#x447;&#x43d;&#x44b;&#x435; &#x43f;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;&#x43b;&#x435;&#x43d;&#x438;&#x44f;. &#x41a;&#x43b;&#x430;&#x441;&#x441; UITableView/Model/Contact.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "Contact"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F89B35D-5340-48B9-9D4F-4313C28D6F62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x413;&#x43b;&#x430;&#x432;&#x430; 7. &#x422;&#x430;&#x431;&#x43b;&#x438;&#x447;&#x43d;&#x44b;&#x435; &#x43f;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;&#x43b;&#x435;&#x43d;&#x438;&#x44f;. &#x41a;&#x43b;&#x430;&#x441;&#x441; UITableView/Model/Contact.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Contact"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51745482-FB08-4299-934E-DE1680BF764B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x413;&#x43b;&#x430;&#x432;&#x430; 7. &#x422;&#x430;&#x431;&#x43b;&#x438;&#x447;&#x43d;&#x44b;&#x435; &#x43f;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;&#x43b;&#x435;&#x43d;&#x438;&#x44f;. &#x41a;&#x43b;&#x430;&#x441;&#x441; UITableView/Model/Contact.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "ContactProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
